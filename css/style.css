@@ -41,7 +41,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  background-color: azure;
+  background-color: rgb(119, 184, 184);
 }
 
 .card {
